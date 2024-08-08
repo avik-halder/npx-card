@@ -33,7 +33,7 @@ You don't need to install anything globally! Just run the command above using `n
 If you want to create your own npx business card:
 
 1. Fork this repository.
-2. Modify the card information in the `index.js` file.
+2. Modify the card information in the `card.js` file.
 3. Publish your package to npm.
 4. Update the README with your custom information.
 
@@ -56,13 +56,13 @@ To run the project locally:
 3. Install the dependencies:
 
     ```bash
-    npm install
+    npm i avik
     ```
 
 4. Test the card locally:
 
     ```bash
-    node index.js
+    node card.js
     ```
 
 ## License
