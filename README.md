@@ -1,7 +1,7 @@
 
 # npx-card
 
-[![npx](https://img.shields.io/badge/npx-avik--halder-blue.svg)](https://www.npmjs.com/package/avik-halder)
+[![npx](https://img.shields.io/badge/npx-avik-blue.svg)](https://www.npmjs.com/package/avik)
 
 A simple CLI tool that displays my business card information when someone types `npx avik-halder` in the terminal. It's a fun and interactive way to share your contact details, GitHub, LinkedIn, and more!
 
