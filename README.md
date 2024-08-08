@@ -71,8 +71,8 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Connect with me
 
-- Portfolio: [https://avik-halder.vercel.app](https://avik-halder.vercel.app)
-- LinkedIn: [www.linkedin.com/in/avik-halder-](https://www.linkedin.com/in/avik-halder-)
-- GitHub: [https://github.com/avik-halder](https://github.com/avik-halder)
-- Instagram: [https://instagram.com/avik_the_ambivert_](https://instagram.com/avik_the_ambivert_)
-- Facebook: [https://www.facebook.com/ah.bd.0](https://www.facebook.com/ah.bd.0)
+- Portfolio: [avik-halder](https://avik-halder.vercel.app)
+- LinkedIn: [avik-halder-](https://www.linkedin.com/in/avik-halder-)
+- GitHub: [avik-halder](https://github.com/avik-halder)
+- Instagram: [avik_the_ambivert_](https://instagram.com/avik_the_ambivert_)
+- Facebook: [অভীক হালদার](https://www.facebook.com/ah.bd.0)
